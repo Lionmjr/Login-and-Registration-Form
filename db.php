@@ -2,8 +2,8 @@
 
  $dbhost = "localhost";
  $dbuser = "root";
- $dbpass = "";
- $db = "Dbname";
+ $dbpass = "Eilami@2023";
+ $db = "GROUP20";
  $conn = new mysqli($dbhost, $dbuser, $dbpass,$db) ;
  
  if (mysqli_connect_errno())
